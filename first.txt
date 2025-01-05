@@ -3,3 +3,4 @@ Gitの練習をしていきます。
 
 gitadd
 gitcommit
+gitrm
