@@ -1,6 +1,8 @@
 Gitの練習をしていきます。
 基本的なワークフローを学びます
 
+1/10の変更です。
+
 gitadd
 gitcommit
 gitrm
